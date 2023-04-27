@@ -2,7 +2,6 @@
 
 Smart Pet Food Dispenser
 
-Course Project for CST3515 (Embedded Linux System and Application Development)
 
 • Designed and implemented a Smart Pet Food Dispenser using a Raspberry Pi, with a automated weighing system that controls the amount of food and delivery intervals while enabling customization.
 
