@@ -16,7 +16,14 @@ The Smart Pet Food Dispenser is an intelligent system designed to dispense food 
 
 ## Introduction
 
-The Smart Pet Food Dispenser is an intelligent system designed to dispense food for pets. The system is built using a Raspberry Pi and various other components, and is controlled using a Graphical User Interface (GUI). The system is capable of dispensing food at specific times, and can be controlled remotely using a mobile application.
+This project aims to provide a convenient and automated solution for pet owners to feed their pets. The Smart Pet Food Dispenser is designed to simplify the feeding process, ensuring your furry friends are well-fed even when you're away.
+
+## Features
+
+- **Automated Feeding:** Schedule regular feeding times for your pets, ensuring they receive their meals on time.
+- **Portion Control:** Customize the portion size to meet the specific dietary needs of your pets.
+- **Easy Setup:** The dispenser is easy to assemble and connect to your home network, making the setup process hassle-free.
+- **Remote Monitoring:** Keep an eye on your pets' feeding habits and dispenser status through the companion mobile app.*
 
 ## Requirements
 
@@ -54,3 +61,6 @@ The following resources were used in the development of this project:
 - [Python Documentation](https://docs.python.org/3/)
 - [Adafruit Industries](https://www.adafruit.com/)
 - [Fritzing Learning](https://fritzing.org/learning/)
+
+> **Note**
+> : The features or components marked with an asterisk (*) are currently in development and will be available in future iterations of the API.
