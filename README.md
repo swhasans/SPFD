@@ -12,6 +12,7 @@ The Smart Pet Food Dispenser is an intelligent system designed to dispense food 
 - [System Analysis and Design](#system-analysis-and-design)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
+- [References](#references)
 
 ## Introduction
 
@@ -42,3 +43,14 @@ The system analysis and design for the Smart Pet Food Dispenser is detailed in t
 The results of the Smart Pet Food Dispenser project are detailed in the project report. The system was successfully
 
 ## Future Work
+
+The future work of the Smart Pet Food Dispenser project are detailed in the project report. This includes any updates to the system.
+
+## References
+
+The following resources were used in the development of this project:
+
+- [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/)
+- [Python Documentation](https://docs.python.org/3/)
+- [Adafruit Industries](https://www.adafruit.com/)
+- [Fritzing Learning](https://fritzing.org/learning/)
